@@ -1,0 +1,113 @@
+[{
+        "deviceType": "Parent's Device",
+        "title": "Turn on Family Sharing",
+        "subtexts": [
+            "Go to Settings and tap your Aple ID at the top",
+            "Tap \u201cFamily Sharing\u201d",
+            "Tap \u201cContinue\u201d",
+            "Tap the \u201c+\u201d icon to add a family member"
+        ],
+        "images": [
+            "/iphoneDocumLite/1.PNG",
+            "/iphoneDocumLite/2.PNG",
+            "/iphoneDocumLite/3.PNG",
+            "/iphoneDocumLite/4.PNG"
+        ],
+        "additionalInfo": "Haven\u2019t activated your iPhone yet? Check out our guide here."
+    },
+    {
+        "deviceType": "Parent's Device",
+        "title": "Add child to Family Sharing",
+        "subtexts": [
+            "Select \u201cCreate Child Account\u201d",
+            "Enter your kid\u2019s name and birthday and tap \u201cVerify You\u2019re an Adult\u201d",
+            "Provide or verify your existing payment method to verify parental consent If you already have a credit card saved, you\u2019ll be asked to enter the CVV.",
+            "Enter your credit card details if you\u2019re providing a new card",
+            "Read and agree to the Family Privacy Disclosure",
+            "Read and agree to the Terms and Conditions",
+            "Create an email address for your kid\u2019s Apple ID or use an existing one and tap \u201cContinue\u201d",
+            "Create a password for their Apple ID",
+            "Confirm the parent phone number or use a different one \u2014 a verification code will be sent to whichever number you enter"
+        ],
+        "images": [
+            "/iphoneDocumLite/1.PNG",
+            "/iphoneDocumLite/2.PNG",
+            "/iphoneDocumLite/3.PNG",
+            "/iphoneDocumLite/4.PNG",
+            "/iphoneDocumLite/5.PNG",
+            "/iphoneDocumLite/6.PNG",
+            "/iphoneDocumLite/7.PNG",
+            "/iphoneDocumLite/8.PNG",
+            "/iphoneDocumLite/9.PNG"
+        ],
+        "additionalInfo": ""
+    },
+    {
+        "deviceType": "Parent's Device",
+        "title": "Set up Apple Screen Time",
+        "subtexts": [
+            "Turn On Screen Time",
+            "Do not tap \u201cTurn On Restrictions\u201d yet \u2014 change your restrictions to match our recommendations (see pictured) and then tap \u201cTurn On Restrictions\u201d",
+            "Turn On Communication Safety",
+            "Select screen downtime for your kid\u2019s iPhone and tap \u201cTurn On Downtime\u201d",
+            "Set up a Screen Time passcode to manage parental controls",
+            "Tap \u201cContinue\u201d",
+            "Tap \u201cShare Location\u201d",
+            "Tap \u201cDone\u201d"
+        ],
+        "images": [
+            "/iphoneDocumLite/1.PNG",
+            "/iphoneDocumLite/2.PNG",
+            "/iphoneDocumLite/3.PNG",
+            "/iphoneDocumLite/4.PNG",
+            "/iphoneDocumLite/5.PNG",
+            "/iphoneDocumLite/6.PNG",
+            "/iphoneDocumLite/7.PNG",
+            "/iphoneDocumLite/8.PNG"
+        ],
+        "additionalInfo": ""
+    },
+    {
+        "deviceType": "Parent's Device",
+        "title": "Adjust other Screen Time settings",
+        "subtexts": [
+            "Go to Settings",
+            "Select Screen Time",
+            "Scroll down and tap on your kid\u2019s name",
+            "Select Content & Privacy Restrictions",
+            "Go to \u201cAllow Changes\u201d and set all to \u201cDon\u2019t Allow\u201d",
+            "Tap \u201cAllowed Apps\u201d",
+            "Set your restrictions to match our recommendations (see pictured)"
+        ],
+        "images": [
+            "/iphoneDocumLite/1.PNG",
+            "/iphoneDocumLite/2.PNG",
+            "/iphoneDocumLite/3.PNG",
+            "/iphoneDocumLite/4.PNG",
+            "/iphoneDocumLite/5.PNG",
+            "/iphoneDocumLite/6.PNG",
+            "/iphoneDocumLite/7.PNG"
+        ],
+        "additionalInfo": ""
+    },
+    {
+        "deviceType": "Kid's Device",
+        "title": "Set up your kid\u2019s device",
+        "subtexts": [
+            "Go to Settings on their iPhone",
+            "Tap \u201cSign in to your iPhone\u201d",
+            "Sign in with your kid\u2019s Apple ID",
+            "Enter the verification code sent to the parent\u2019s iPhone",
+            "Enter an iPhone passcode for your kid\u2019s device if prompted"
+        ],
+        "images": [
+            "/iphoneDocumLite/1.PNG",
+            "/iphoneDocumLite/2.PNG",
+            "/iphoneDocumLite/3.PNG",
+            "/iphoneDocumLite/4.PNG",
+            "/iphoneDocumLite/5.PNG",
+            "/iphoneDocumLite/6.PNG"
+        ],
+        "additionalInfo": "Haven’t activated your iPhone yet? Check out our guide here."
+    }
+]
